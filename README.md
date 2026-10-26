@@ -10,7 +10,7 @@ Instead of manually filtering spreadsheets and writing reports, users can intera
 
 ## Workflow Architecture
 
-![n8n Workflow](screenshots/workflow.png)
+![n8n Workflow](image.png)
 
 ### Workflow Components
 
